@@ -1,0 +1,16 @@
+{
+	"authors": [
+		"Louis Lainé"
+	],
+	"name": "hello",
+	"license": "proprietary",
+	"copyright": "Copyright © 2016, Louis Lainé",
+	"description": "A simple vibe.d server application.",
+	"dependencies": {
+		"vibe-d": "~>0.7.26",
+		"dpq": "~>0.8.6"
+	},
+	"versions": [
+		"VibeDefaultMain"
+	]
+}
